@@ -1,0 +1,86 @@
+{
+  "packages": [
+    {
+      "name": "heroncircuits",
+      "maintainer": "Heron Circuits, LLC.",
+      "websiteURL": "https://heroncircuits.com",
+      "email": "",
+      "help": {"online": "https://heroncircuits.com"},
+      "platforms": [
+        {
+          "name": "Heron Circuits AVR Boards",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "",
+          "help": {"online": "https://heroncircuits.com"},
+          "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-avr-1.0.0.zip",
+          "archiveFileName": "heroncircuits-avr-1.0.0.zip",
+          "checksum": "SHA-256:14a49f2c57f541cc2335497352828ad3040fdbf9e7383084b29661306644574a",
+          "size": "88604",
+          "boards": [{ "name": "Proboard PB" }]
+        }
+      ],
+      "tools": [
+        {
+          "name":"avr-gcc",
+          "version":"4.9.2c",
+          "systems": [
+            {
+                "host":"i686-mingw32",
+                "url":"https://files.heroncircuits.com/proboard-index/avr-gcc-4.9.2c-win32.zip",
+                "archiveFileName":"avr-gcc-4.9.2c-win32.zip",
+                "checksum":"MD5:e4786528c0a4cb009eb441da07d82ced",
+                "size":"43832130"
+            }
+          ]
+        },
+        {
+          "name":"avr-gcc",
+          "version":"4.9.2b",
+          "systems": [
+            {
+                "host":"i686-mingw32",
+                "url":"https://files.heroncircuits.com/proboard-index/avr-gcc-4.9.2b-win32.zip",
+                "archiveFileName":"avr-gcc-4.9.2b-win32.zip",
+                "checksum":"MD5:4dd147d70307775b705636ffa66f8a4b",
+                "size":"43772922"
+            }
+          ]
+        },
+        {
+          "name":"avr-gcc",
+          "version":"4.9.2",
+          "systems": [
+            {
+                "host":"i686-mingw32",
+                "url":"https://files.heroncircuits.com/proboard-index/avr-gcc-4.9.2-win32.zip",
+                "archiveFileName":"avr-gcc-4.9.2-win32.zip",
+                "checksum":"MD5:3a775c1114e1802831f3a2ad59a7bb69",
+                "size":"41504987"
+            },
+            {
+                "host":"x86_64-linux-gnu",
+                "url":"https://files.heroncircuits.com/proboard-index/avr-gcc-4.9.2-linux_64.tar.bz2",
+                "archiveFileName":"avr-gcc-4.9.2-linux_64.tar.bz2",
+                "checksum":"MD5:07cacdecda66b82f8addf5bbd8a6e210",
+                "size":"25084308"
+            }
+          ]
+        },
+        {
+          "name":"avrdude",
+          "version":"6.3.0",
+          "systems": [
+            {
+                "host":"i686-mingw32",
+                "url":"https://files.heroncircuits.com/proboard-index/avrdude-6.3.0-win32.zip",
+                "archiveFileName":"avrdude-6.3.0-win32.zip",
+                "checksum":"MD5:ec665463025eaafb940e0a3e9ef1fee5",
+                "size":"220965"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
