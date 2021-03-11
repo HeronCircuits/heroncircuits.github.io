@@ -18,58 +18,8 @@
           "checksum": "SHA-256:14a49f2c57f541cc2335497352828ad3040fdbf9e7383084b29661306644574a",
           "size": "88604",
           "boards": [{ "name": "Proboard PB" }]
-        },
-        {
-          "name": "Heron Circuits SAMD Boards",
-          "architecture": "samd",
-          "version": "1.0.0",
-          "category": "Contributed",
-          "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-samd-1.0.0.zip",
-          "archiveFileName": "heroncircuits-samd-1.0.0.zip",
-          "checksum": "SHA-256:b1128fb159fd3c64b05fa23b97e4ebd8722ebe8b8f6c5afb5af2a287675511f3",
-          "size": "1600742",
-          "help": {"online": "https://heroncircuits.com"},
-          "boards": [{ "name": "Heron Circuits Proboard 21JS" }],
-          "toolsDependencies": [
-            {
-              "packager": "adafruit",
-              "name": "arm-none-eabi-gcc",
-              "version": "9-2019q4"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.7.0-arduino3"
-            },
-            {
-              "packager": "arduino",
-              "name": "bossac",
-              "version": "1.8.0-48-gb176eee"
-            },
-            {
-              "packager": "arduino",
-              "name": "openocd",
-              "version": "0.10.0-arduino7"
-            },
-            {
-              "packager": "adafruit",
-              "name": "CMSIS",
-              "version": "5.4.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "CMSIS-Atmel",
-              "version": "1.2.0"
-            },
-            {
-              "packager": "arduino",
-              "name": "arduinoOTA",
-              "version": "1.2.1"
-            }
-          ]
         }
       ],
-
       "tools": [
         {
           "name":"avr-gcc",
