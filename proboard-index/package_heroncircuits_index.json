@@ -17,7 +17,7 @@
           "archiveFileName": "heroncircuits-avr-1.0.0.zip",
           "checksum": "SHA-256:14a49f2c57f541cc2335497352828ad3040fdbf9e7383084b29661306644574a",
           "size": "88604",
-          "boards": [{ "name": "Proboard PB" }]
+          "boards": [{ "name": "Heron Circuits Proboard PB" }]
         },
         {
           "name": "Heron Circuits SAMD Boards",
