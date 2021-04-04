@@ -26,8 +26,8 @@
           "category": "Contributed",
           "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-samd-1.0.0.zip",
           "archiveFileName": "heroncircuits-samd-1.0.0.zip",
-          "checksum": "SHA-256:e5e13073094c0bd2592f7a99e051697030835ebcbb6db614eb0fa1c9f47836a1",
-          "size": "1600235",
+          "checksum": "SHA-256:3b1357dcd65ea13a02903cb53113087f5d183557738c9bb211774b75c0299b18",
+          "size": "1600233",
           "help": {"online": "https://heroncircuits.com"},
           "boards": [{ "name": "Heron Circuits Proboard 21J" }],
           "toolsDependencies": [
