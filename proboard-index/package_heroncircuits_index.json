@@ -15,8 +15,8 @@
           "help": {"online": "https://heroncircuits.com"},
           "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-avr-1.1.0.zip",
           "archiveFileName": "heroncircuits-avr-1.1.0.zip",
-          "checksum": "SHA-256:2608bc347cb9d1a999a100787d8092ec2515dcbc61c9de751a0b08fa46005cee",
-          "size": "89318",
+          "checksum": "SHA-256:27da0863b56049ecb2ad08c0e894c7778c34e7937a58ff5376b194f6e13e8247",
+          "size": "89313",
           "boards": [{ "name": "Heron Circuits Proboards" }]
         },
         {
