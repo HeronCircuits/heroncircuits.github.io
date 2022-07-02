@@ -10,14 +10,14 @@
         {
           "name": "Heron Circuits AVR Boards",
           "architecture": "avr",
-          "version": "1.0.0",
+          "version": "1.1.0",
           "category": "",
           "help": {"online": "https://heroncircuits.com"},
-          "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-avr-1.0.0.zip",
-          "archiveFileName": "heroncircuits-avr-1.0.0.zip",
-          "checksum": "SHA-256:14a49f2c57f541cc2335497352828ad3040fdbf9e7383084b29661306644574a",
-          "size": "88604",
-          "boards": [{ "name": "Heron Circuits Proboard PB" }]
+          "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-avr-1.1.0.zip",
+          "archiveFileName": "heroncircuits-avr-1.1.0.zip",
+          "checksum": "SHA-256:2608bc347cb9d1a999a100787d8092ec2515dcbc61c9de751a0b08fa46005cee",
+          "size": "89318",
+          "boards": [{ "name": "Heron Circuits Proboards" }]
         },
         {
           "name": "Heron Circuits SAMD Boards",
