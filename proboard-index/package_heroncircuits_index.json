@@ -10,14 +10,14 @@
         {
           "name": "Heron Circuits AVR Boards",
           "architecture": "avr",
-          "version": "1.1.0",
+          "version": "1.1.1",
           "category": "",
           "help": {"online": "https://heroncircuits.com"},
-          "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-avr-1.1.0.zip",
-          "archiveFileName": "heroncircuits-avr-1.1.0.zip",
-          "checksum": "SHA-256:3453bb2913aaf050918409aa19b9d0fcbb45714972ae0e502abb1ec41b787f4d",
-          "size": "89234",
-          "boards": [{ "name": "Heron Circuits Proboards" }]
+          "url": "https://files.heroncircuits.com/proboard-index/heroncircuits-avr-1.1.1.zip",
+          "archiveFileName": "heroncircuits-avr-1.1.1.zip",
+          "checksum": "SHA-256:7eaf62ca33fb154872a49f3f03fc3e1f1394f2919a58d277e0d2c3af57164a37",
+          "size": "89231",
+          "boards": [{ "name": "Heron Circuits AVR Boards" }]
         },
         {
           "name": "Heron Circuits SAMD Boards",
@@ -29,7 +29,7 @@
           "checksum": "SHA-256:e3bf2c0d580e2f386cfae62b956c323e0ab12de5fecf2bcbfbb15991a8acc33c",
           "size": "1617913",
           "help": {"online": "https://heroncircuits.com"},
-          "boards": [{ "name": "Heron Circuits Proboard 21J" }],
+          "boards": [{ "name": "Heron Circuits SAMD Boards" }],
           "toolsDependencies": [
             {
               "packager": "adafruit",
